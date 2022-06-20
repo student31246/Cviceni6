@@ -1,0 +1,7 @@
+﻿  Cviceni 6.cpp
+D:\Study\C++ Cvicky\Cviceni 6\Cviceni 6\Integer.h(9,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Study\C++ Cvicky\Cviceni 6\Cviceni 6\Cviceni 6.cpp(100,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\C++ Cvicky\Cviceni 6\Cviceni 6\Cviceni 6.cpp(101,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\C++ Cvicky\Cviceni 6\Cviceni 6\Cviceni 6.cpp(103,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Study\C++ Cvicky\Cviceni 6\Cviceni 6\Cviceni 6.cpp(104,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  Cviceni 6.vcxproj -> D:\Study\C++ Cvicky\Cviceni 6\Cviceni 6\Debug\Cviceni 6.exe
